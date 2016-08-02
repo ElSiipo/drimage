@@ -77,7 +77,6 @@ public class RetrieveImages {
 
             //imageUrls = extractImageUrls(listOfLines);
 
-
             // Either return the image urls to UI,
             // or run a loop/method to retrieve the images.
             // Have not decided yet.
